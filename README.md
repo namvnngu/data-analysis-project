@@ -10,8 +10,11 @@ Dataset: Rain in Melbourne
 
 Folder Structure:
 
-- Dataset: It contains the seleted dataset, "Rain in Melbourne"
+- Dataset: It contains the seleted dataset, "Rain in Melbourne".
 
-- Report and Repsentation: It consists of a dataset analysis report in PDF file and a powerpoint slides.
+- Presentation Video: It has a text file containing a link to presentation video.
+
+- Report and Repsentation: It consists of a dataset analysis report in PDF file and a powerpoint slides (saved in pdf and pptx).
 
 - Source code: It includes 3 code files in jupyter notebook format and 1 subfolder which has 1 json file storing data information, 1 csv file containing cleaned data, and the last csv which is the original data.
+
